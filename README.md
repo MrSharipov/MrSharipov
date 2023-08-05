@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrSharipov
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Frontend and Backend in JavaScript
-- 💞️ I’m looking to collaborate on Web Development and Flutter
+- 🌱 I’m currently working in Payment System Company as a backend developer
+- 💞️ I’m looking to collaborate on Backend Development
 - 📫 My contact: Telegram username: @Umidjon_Sharipov
 
 <!---
